@@ -204,3 +204,80 @@ footer { text-align: center; padding: 2rem; background: #1e293b; margin-top: 3re
     background: #0ea5e9;
     transform: translateY(-3px);
 }
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+}
+.skill-card {
+    background: #1e293b;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    transition: 0.3s;
+}
+.skill-card:hover {
+    transform: translateY(-5px);
+    border: 1px solid #38bdf8;
+}
+/* Education Timeline Styles */
+.education-container {
+    max-width: 800px;
+    margin: 0 auto;
+    border-left: 2px solid #334155; /* The vertical line */
+    padding-left: 30px;
+    position: relative;
+}
+
+.edu-card {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.edu-dot {
+    width: 16px;
+    height: 16px;
+    background: #38bdf8;
+    border-radius: 50%;
+    position: absolute;
+    left: -39px; /* Aligns exactly on the vertical line */
+    top: 5px;
+    box-shadow: 0 0 10px #38bdf8;
+}
+
+.edu-content {
+    background: #1e293b;
+    padding: 1.5rem;
+    border-radius: 12px;
+    border: 1px solid #334155;
+    transition: 0.3s;
+}
+
+.edu-content:hover {
+    border-color: #38bdf8;
+    transform: translateX(10px);
+}
+
+.edu-year {
+    color: #38bdf8;
+    font-size: 0.85rem;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.edu-content h3 {
+    color: #f8fafc;
+    margin-bottom: 5px;
+}
+
+.edu-college {
+    color: #94a3b8;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.edu-details {
+    font-size: 0.95rem;
+    color: #cbd5e1;
+}
