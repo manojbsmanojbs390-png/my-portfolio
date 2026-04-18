@@ -18,5 +18,5 @@ You can view the live website here:
 * **Responsive Design:** Fully optimized for both Mobile and Desktop.
 
 ## 📧 Contact
-* **LinkedIn:** [Your LinkedIn Link]
-* **Email:** [Your Email Address]
+* **LinkedIn:** [https://www.linkedin.com/in/manoj-bs-manoj-bs-08b09a333
+ [manojbsmanojbs390@gmail.com]
