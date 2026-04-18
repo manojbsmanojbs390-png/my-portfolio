@@ -19,4 +19,5 @@ You can view the live website here:
 
 ## 📧 Contact
 * **LinkedIn:** [https://www.linkedin.com/in/manoj-bs-manoj-bs-08b09a333
+* **Email:**
  [manojbsmanojbs390@gmail.com]
