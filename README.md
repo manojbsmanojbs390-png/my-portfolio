@@ -18,6 +18,6 @@ You can view the live website here:
 * **Responsive Design:** Fully optimized for both Mobile and Desktop.
 
 ## 📧 Contact
-* **LinkedIn:** [https://www.linkedin.com/in/manoj-bs-manoj-bs-08b09a333
+* **LinkedIn:** [https://www.linkedin.com/in/manoj-bs-manoj-bs-08b09a333]
 * **Email:**
  [manojbsmanojbs390@gmail.com]
