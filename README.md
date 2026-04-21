@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 
 ## 🚀 Live Demo
 You can view the live website here: 
-**[PASTE YOUR GITHUB PAGES LINK HERE]**
+**[https://manojbsmanojbs390-png.github.io/my-portfolio/]**
 
 ## 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3, JavaScript, React
